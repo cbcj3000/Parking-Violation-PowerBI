@@ -1,4 +1,4 @@
-# NYC Urban Traffic Safety & Risk Analytics
+# NYC Parking Violations Interactive Dashboard
 A comprehensive data analytics solution designed to visualize ten years of NYC parking violation data. This project utilizes **Python** for dataset generation and **Power BI** for relational modeling, DAX-driven measures, and geospatial insights.
 
 **Tech Stack**
